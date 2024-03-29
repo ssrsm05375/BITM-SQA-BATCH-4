@@ -1,0 +1,3 @@
+My First code file 
+date: 29/03/2024
+Day: Friday
